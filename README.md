@@ -1,3 +1,6 @@
+### 🚧  Project Status: In Progress 🚧
+- This project is still a work in progress. Contributions, issues, and feedback are welcome!
+
 # 🧪 Manual QA Testing – AutomationExercise.com
 
 This repository showcases a manual quality assurance (QA) testing project for [AutomationExercise.com](https://www.automationexercise.com/). It includes a detailed test plan, documented test cases, and tracked bugs, simulating a real-world QA workflow using publicly available web content.
@@ -31,7 +34,7 @@ Manual test cases were adapted from the official 26 test scenarios published on 
 - **Status**: Tracked with pass/fail results
 - **Fields**: Test Case ID, Title, Steps, Expected Result, Actual Result, Status, Notes
 
-→ 📊 [View Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/LINK)
+→ 📊 [View Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1Myw9FfFgjnqnkH1LR_Fv-Nxo1xYiNmGZH8jzVdrM9lM/edit?gid=0#gid=0)
 
 
 
