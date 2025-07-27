@@ -1,16 +1,16 @@
 # 📋 Test Plan: Manual QA for AutomationExercise.com 
 
 ### Table of Contents
-1. [📘 Introduction](#📘-introduction)
-2. [🎯 Test Objectives](#🎯-test-objectives)
-3. [🗺️ Scope of Testing](#🗺️-scope-of-testing)
-4. [🧪 Test Types](#🧪-test-types)
-5. [🚀 Testing Approach](#🚀-testing-approach)
-6. [🖥️ Test Environment](#🖥️-test-environment)
-7. [📊 Test Data](#📊-test-data)
-8. [🛠️ Tools and Resources](#🛠️-tools-and-resources)
-9. [📬 Test Deliverables](#📬-test-deliverables)
-10. [🐞 Bug Reporting Process](#🐞-bug-reporting-process)
+1. [📘 Introduction](#-introduction)
+2. [🎯 Test Objectives](#-test-objectives)
+3. [🗺️ Scope of Testing](#🗺-scope-of-testing)
+4. [🧪 Test Types](#-test-types)
+5. [🚀 Testing Approach](#-testing-approach)
+6. [🖥️ Test Environment](#🖥-test-environment)
+7. [📊 Test Data](#-test-data)
+8. [🛠️ Tools and Resources](#🛠-tools-and-resources)
+9. [📬 Test Deliverables](#-test-deliverables)
+10. [🐞 Bug Reporting Process](#-bug-reporting-process)
 
 ## 📘 Introduction 
 This test plan outlines the approach and scope for manually testing the website AutomationExercise. The goal is to verify the core functionality, usability, and overall stability of the application from an end-user perspective. The testing process will simulate real user actions to uncover potential defects and ensure a high-quality user experience. Cross-browser testing will be included to validate consistent behavior across major browsers such as Chrome, Firefox, and Edge.
