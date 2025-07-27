@@ -42,10 +42,13 @@ Manual test cases were adapted from the official 26 test scenarios published on 
 
 All discovered issues are documented using [GitHub Issues](https://github.com/melatemarkos/qa-ecommerce-manual/issues), following a structured format:
 
-- Title  
+- Title
+- UAT Environment
+- Test Data (if applicable)
 - Steps to Reproduce  
 - Expected vs Actual Result  
-- Severity Level  
+- Severity Level
+- Priority Level
 - Screenshots (if applicable)
 
 → 🐛 [View Reported Issues](https://github.com/melatemarkos/qa-ecommerce-manual/issues)
