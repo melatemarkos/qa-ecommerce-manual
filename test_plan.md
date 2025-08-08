@@ -87,7 +87,7 @@ The following test data will be used during manual testing to validate form fiel
 
 - **User Credentials:**
   - Valid:
-    - Email: `testuser@example.com`
+    - Email: `testuser215@example.com`
     - Password: `Test@1234`
   - Invalid:
     - Email: `invaliduser@example.com`
@@ -95,11 +95,11 @@ The following test data will be used during manual testing to validate form fiel
 
 - **Registration Data:**
   - Name: `Test User`
-  - Email: `testuser+{timestamp}@example.com` *(unique for repeated tests)*
+  - Email: `testuser215@example.com` 
   - Title: `Mrs.`
-  - Date of Birth: `01 January 1990`
+  - Date of Birth: `01 January 2000`
   - Address: `123 QA Lane`
-  - State: `Testville`
+  - State: `Virginia`
   - Country: `United States`
   - Zipcode: `12345`
   - Mobile Number: `123-456-7890`
@@ -108,7 +108,7 @@ The following test data will be used during manual testing to validate form fiel
   - Name on Card: `Test User`
   - Card Number: `1234 1234 1234 1234` *(Visa test number)*
   - CVC: `321`
-  - Expiry: `01/30`
+  - Expiry: `01/2030`
 
 - **Subscription Email:**
   - Valid: `subscriber@example.com`
